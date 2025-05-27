@@ -13,7 +13,6 @@
 - Backend development with Express.js, Node.js & Spring Boot
   
 🧠 Currently exploring:
-- Performance optimization in React 
 - Cybersecurity fundamentals  
 - DSA in JavaScript  
 - System design
@@ -21,8 +20,6 @@
 🤝 I also enjoy mentoring and collaborating across teams to deliver thoughtful, high-quality solutions.
 
 - 🔭 I’m currently working on [StackMeet](https://github.com/Sumeet-Raina/StackMeet)
-
-- 🌱 I’m currently learning **Java, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeet-Raina?tab=repositories](https://github.com/Sumeet-Raina?tab=repositories)
 
